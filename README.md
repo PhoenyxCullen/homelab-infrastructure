@@ -120,3 +120,25 @@
 - Automated snapshot management with Timeshift integration
 
 **Skills:** LVM topology, Btrfs advanced features, encryption strategy, storage architecture design
+
+---
+
+## Contact
+
+**Allen Schultz**  
+Linux Systems Administrator | DevOps | Security-Focused Infrastructure
+
+- 📧 Email: allen.schultz@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/allen-schultz-89810014](https://www.linkedin.com/in/allen-schultz-89810014)
+- 📍 Location: Medford, OR
+- 🌐 Open to remote work opportunities
+
+---
+
+**Currently seeking remote opportunities in:**
+- Linux System Administration
+- DevOps Engineering
+- Infrastructure Security
+- Network Administration
+
+*Salary requirement: $46,500+ annually*
