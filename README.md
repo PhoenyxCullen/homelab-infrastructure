@@ -8,8 +8,14 @@
 - Intel Core i9-14900HX (24 cores)
 - 64GB DDR5 RAM
 - Dual GPUs: Intel UHD (dom0) + NVIDIA RTX 4080 Mobile
-- 3x NVMe drives (3.6TB total)
+- 3x 3.6TB NVMe SSDs (10.8TB total NVMe capacity)
 - System76 Bonobo WS workstation
+
+**Storage:**
+- 3x 3.6TB NVMe SSDs (10.8TB total NVMe capacity)
+- Enterprise-grade all-NVMe storage array
+- High-performance storage for multiple VM templates and isolated workspaces
+- Ultra-low latency for demanding virtualization workloads
 
 **Current Configuration:**
 - Qubes OS 4.3 RC3 (pre-release testing)
@@ -101,7 +107,6 @@
 - Implementing security-by-isolation model with separate VMs for vault, personal, work, and untrusted activities
 - Integrated Whonix for anonymized networking research
 - System76 platform chosen for Linux-first design and open-source firmware support
-- 3x 3.6TB NVMe storage with LUKS encryption
 
 **Learning:** Xen hypervisor, VM security isolation, compartmentalized computing, pre-release software evaluation
 
